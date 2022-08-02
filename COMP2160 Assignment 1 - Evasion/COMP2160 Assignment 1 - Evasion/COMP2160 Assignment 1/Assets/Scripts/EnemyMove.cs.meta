@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a5464e0415d2f0488a849b82e14f10a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {fileID: 6147955052970456012, guid: 9856d06be0c422847b49fb740c3c4da0,
+      type: 3}
+  - bulletParent: {fileID: 181197457515708625, guid: d75b6dc250d56e34497dcc08c7b60ebf,
+      type: 3}
+  - coinPrefab: {fileID: 6606403995791032097, guid: 741ff801a1fe7c348b26edc0bc7b5827,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
